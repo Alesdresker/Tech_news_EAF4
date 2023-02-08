@@ -1,6 +1,7 @@
 body{
     display: block;
     text-align: center;
+    background-color: rgb(245, 245, 220);
 }
 header h1{
 font-size: large;
