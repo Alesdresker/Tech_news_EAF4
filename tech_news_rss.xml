@@ -2,7 +2,7 @@
   <channel>
     <title>Tech news EAF4 mrss</title>
     <link>https://alesdresker.github.io/Tech_news_EAF4/tech_news_rss.xml</link>
-    <description>Things that I've recently updated.</description>
+    <description>The news of tecnologi what you want</description>
  
     <item>
        <title>My name</title>
@@ -20,7 +20,8 @@
     <item>
       <title>Los planes del Vaticano con las nuevas  tecnologias</title>
       <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
-      <description>Nunc sit amet diam quis erat dapibus interdum. Mauris volutpat congue velit, id gravida libero.</description>
+      <description>Nunc sit amet diam quis erat dapibus interdum. 
+        Mauris volutpat congue velit, id gravida libero.</description>
    </item>
    
   </channel>
