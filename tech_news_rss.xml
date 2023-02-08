@@ -6,7 +6,7 @@
 
     <item>
        <title>My name</title>
-       <link href="pictures/My_name.bmp"></link>
+       <link>https://raw.githubusercontent.com/Alesdresker/Tech_news_EAF4/main/pictures/My_name.bmp</link>
        <description>Is the name of the author</description>
     </item>
 
