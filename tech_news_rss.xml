@@ -3,10 +3,10 @@
     <title>Tech news EAF4 mrss</title>
     <link>https://alesdresker.github.io/Tech_news_EAF4/tech_news_rss.xml</link>
     <description>The news of tecnologi what you want</description>
- 
+    
     <item>
-       <title>My name</title>
-       <icon>https://github.com/Alesdresker/Tech_news_EAF4/blob/main/pictures/My_name.png?raw=true</icon>
+      <title>My name</title>
+       <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
        <description>Is the name of the author</description>
     </item>
 
