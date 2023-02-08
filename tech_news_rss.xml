@@ -13,11 +13,14 @@
     <item>
        <title>Nuevos CPUs del momento</title>
        <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
+       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+         Vestibulum.</description>
     </item>
 
     <item>
       <title>Research Project Results</title>
       <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
+      <description>Nunc sit amet diam quis erat dapibus interdum. Mauris volutpat congue velit, id gravida libero.</description>
    </item>
    
   </channel>
