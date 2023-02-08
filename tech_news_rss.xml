@@ -3,7 +3,14 @@
     <title>Tech news EAF4 mrss</title>
     <link>https://alesdresker.github.io/Tech_news_EAF4/tech_news_rss.xml</link>
     <description>Things that I've recently updated.</description>
-
+  
+    
+    <image>
+    <url>https://github.com/Alesdresker/Tech_news_EAF4/blob/main/pictures/My_name.png?raw=true</url>
+    <title>W3Schools.com</title>
+    <link>https://www.w3schools.com</link>
+  
+    </image>
     <item>
        <title>My name</title>
        <icon>/pictures/My_name.png</icon>
