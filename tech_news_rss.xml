@@ -6,18 +6,18 @@
 
     <item>
        <title>My name</title>
-       <link>https://raw.githubusercontent.com/Alesdresker/Tech_news_EAF4/main/pictures/My_name.bmp</link>
+       <icon>/pictures/My_name.bmp</icon>
        <description>Is the name of the author</description>
     </item>
 
     <item>
-       <title>Research Project Results</title>
-       <link>/news2.html</link>
+       <title>Nuevos CPUs del momento</title>
+       <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
     </item>
 
     <item>
       <title>Research Project Results</title>
-      <link>/news3.html</link>
+      <link>https://alesdresker.github.io/Tech_news_EAF4/</link>
    </item>
    
   </channel>
